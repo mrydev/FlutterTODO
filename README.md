@@ -9,6 +9,7 @@
 > A Todo App working with local database where data is stored only on your device.
 
 ### ✨ [Demo](https://todo.emreyavuz.live)
+### ✨ [Demo Video](https://www.youtube.com/shorts/zUprKEO0zpk)
 
 ## Usage
 
