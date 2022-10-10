@@ -1,16 +1,33 @@
-# todoapp
+<h1 align="center">Welcome to Mry Todo 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1-blue.svg?cacheSeconds=2592000" />
+  <a href="https://twitter.com/silozanx" target="_blank">
+    <img alt="Twitter: silozanx" src="https://img.shields.io/twitter/follow/silozanx.svg?style=social" />
+  </a>
+</p>
 
-A new Flutter project.
+> A Todo App working with local database where data is stored only on your device.
 
-## Getting Started
+### ✨ [Demo](https://todo.emreyavuz.live)
 
-This project is a starting point for a Flutter application.
+## Usage
 
-A few resources to get you started if this is your first Flutter project:
+```sh
+Just install the app and start using it. It's that simple.
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Author
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+👤 **Emre**
+
+* Website: https://emreyavuz.live
+* Twitter: [@silozanx](https://twitter.com/silozanx)
+* Github: [@mrydev](https://github.com/mrydev)
+* LinkedIn: [@emreyvz](https://linkedin.com/in/emreyvz)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
