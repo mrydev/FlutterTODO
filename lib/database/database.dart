@@ -7,8 +7,8 @@ class TaskDataBase {
   void createInitialData() {
     toDoList = [
       ["Yeni bir görev ekle.", true],
-      ["Görev eklemek için alttaki butona basabilirsin.", false],
-      ["Silmek için sola kaydır.", false]
+      ["Yeni görev eklemek için + butonuna tıklayabilirsin.", false],
+      ["Eklenmiş görevleri silmek için sola kaydır.", false]
     ];
   }
 
