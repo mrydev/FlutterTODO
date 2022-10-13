@@ -28,7 +28,7 @@ class AlertBox extends StatelessWidget {
               controller: controller,
               decoration: InputDecoration(
                   border: const OutlineInputBorder(),
-                  hintText: "Yeni Görev Ekle",
+                  hintText: "Planlanmış bir görev ekle.",
                   hintStyle: GoogleFonts.inter()),
             ),
             Row(
