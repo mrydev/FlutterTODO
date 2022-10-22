@@ -8,7 +8,7 @@
 
 > A Todo App working with local database where data is stored only on your device.
 
-### ✨ [Demo](https://todo.emreyavuz.live)
+### ✨ [Demo](https://todo.mrydev.tech)
 ### ✨ [Demo Video](https://www.youtube.com/shorts/zUprKEO0zpk)
 
 ## Usage
@@ -21,7 +21,7 @@ Just install the app and start using it. It's that simple.
 
 👤 **Emre**
 
-* Website: https://emreyavuz.live
+* Website: https://mrydev.tech
 * Twitter: [@silozanx](https://twitter.com/silozanx)
 * Github: [@mrydev](https://github.com/mrydev)
 * LinkedIn: [@emreyvz](https://linkedin.com/in/emreyvz)
